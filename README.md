@@ -2,7 +2,7 @@ The Banking Project
 
 Instructions:
 
-->Open the The Bank.zip
+->Open the The Bank
 
 ->Run the login class
 
